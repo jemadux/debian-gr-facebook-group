@@ -1,4 +1,4 @@
-# debian-gr-facebook-groupi
+# Κανόνες
 
 
 Καλώς ήρθατε στην επίσημη ομάδα της Ελληνικής κοινότητας του [Debian στο Facebook Groups][1].
